@@ -1,4 +1,4 @@
-# Dummy Core
+# Dummy Contrib
 
 Sample project to work with multi-module repositories.
 
